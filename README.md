@@ -4,11 +4,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Node js
-- 🌱 I’m currently learning Backend Technologies
-- 👯 I’m looking to collaborate on Web API's
+- 🔭 I’m currently working on Node js and building web apps
+- 🌱 I’m currently learning Front-end
+- 👯 I’m looking to collaborate on Web Applications
 - 🤔 I’m looking for help with Front-end Technologies
-- 💬 Ask me about Backend
+- 💬 Ask me about Software Development
 - 📫 How to reach me: www.atuls.dev
-- 😄 Pronouns: Dev
+- 😄 Pronouns: Backend-Dev
 - ⚡ Fun fact: No fact
